@@ -1,0 +1,33 @@
+Add the business problem at the top for why this is important
+
+
+
+Use dimensionality reduction technique after next week class possibly
+
+
+
+Read about the project online and understand a way to combine soil type features into one feature with a correlation to something else to show coverage
+
+
+
+Think a little about the coverage problem and figure out a way to divide the feature space of ecological and materialogical quantities to align with what trees grow where. Can use context to understand what tress grow better in specific conditions
+
+
+Think about scaling the features but do not worry about it right now
+
+
+Compact the soil types
+
+
+Get a confusion matrix to understand what we are getting confused most with what in our models
+
+
+We will find that there a couple of species that get confused with each other a lot
+
+
+
+Create a sequence of classifiers and separate the species we are good at recognizing in the first layer and then focus on separating the similar species in the second layer
+
+
+
+Focus more on the error analysis, less concerned about which model approach
