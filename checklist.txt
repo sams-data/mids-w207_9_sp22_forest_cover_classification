@@ -16,6 +16,10 @@ Notebook is due 4/11.
 # ###########################################
 # Things to do:
 
+- Sam will do dimensionality reduction
+- Go through all different model confusion matrices and go from there
+
+
 - Read about the project online and understand a way to combine soil type features into one feature with a correlation to something else to show coverage
 
 
@@ -47,6 +51,7 @@ Feature Engineering
 
 Error Analysis
 - confusion matrix
+
 
 
 
